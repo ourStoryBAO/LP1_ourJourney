@@ -12,4 +12,4 @@ This repository is used for:
 - Planning for the future: Roadmaps
 
 Documents of note here:
-- Meeting Anatomy: Understanding our protocol for organizing and hosting community calls
+- [Meeting Anatomy](https://github.com/ourStoryBMO/1-ground-operations/blob/main/meeting-anatomy.md): Understanding our protocol for organizing and hosting community calls
