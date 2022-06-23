@@ -1,5 +1,5 @@
 ```
-$ oSFw ground-operations ourstory-bMO
+$ oSFw ground-operations
 ```
 # ourStory - Ground Operations
 `executive-summary`, `community`, `roadmap`, `process`, `project-management`
